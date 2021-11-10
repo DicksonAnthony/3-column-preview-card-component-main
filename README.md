@@ -54,5 +54,4 @@ I want to really focus on responsive design because i feel like something is off
 ## Author
 
 - Website - [Dickson-Ekwe Anthony Chibuikem](https://www.dicksonanthony.github.io)
-- Frontend Mentor - [@Dickson Anthony](https://www.frontendmentor.io/profile/yourusername)
-- Facebook - [@Dickson Anthony](https://www.facebook.com/yourusername)
+- Frontend Mentor - [@Dickson Anthony](https://www.frontendmentor.io/profile/DicksonAnthony)
